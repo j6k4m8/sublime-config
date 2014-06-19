@@ -1,0 +1,26 @@
+{
+    // Aesthetics
+	"highlight_line": true,
+	"bold_folder_labels": true,
+	
+	// http://kkga.github.io/spacegray/
+    "theme": "Spacegray Eighties.sublime-theme",
+  	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
+  	
+  	// http://www.fontsquirrel.com/fonts/source-code-pro
+	"font_face": "Source Code Pro",
+	"font_size": 9,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	
+	// Good code practice
+	"ensure_newline_at_eof_on_save": true,
+	"rulers":
+	[
+		100 // I know, I know... But 80 characters is like... nothin'.
+	],
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+}
